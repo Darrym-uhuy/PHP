@@ -25,7 +25,7 @@ $nilai = 41.7;
         echo " nilai anda $nilai Akreditasi anda <b>C+</b> Bobot anda 2,3";
     }elseif ($nilai >= 55 AND $nilai < 59.99) {
         echo " nilai anda $nilai Akreditasi anda <b>C</b> Bobot anda 2";
-    }elseif ($nilai >= 40 AND $nilai < 54.99) {
+    }elseif ($nilai >= 40 AND $nilai < 54.99) {  
         echo " nilai anda $nilai Akreditasi anda <b>D</b> Bobot anda 1";
     }elseif ($nilai >= 0 AND $nilai < 39.99) {
         echo " nilai anda $nilai Akreditasi anda <b>E</b> Bobot anda 0";
