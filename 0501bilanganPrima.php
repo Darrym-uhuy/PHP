@@ -14,9 +14,8 @@ function isPrime($no) {
 
 echo "Bilangan prima antara 0-50:<br>";
 for ($i = 0; $i <= 50; $i++) {
+    
+}
     if (isPrime($i)) {
         echo $i . "<br>";
-    }
-}
-
-?>
+    }
